@@ -26,12 +26,6 @@ Password: admin123
 Username: user@gmail.com
 Password: user123
 
-## **Installation**
-
-Getting started with RealEstateCRM is a breeze. Follow our comprehensive installation guide to set up the CRM in your local environment. Whether you're an experienced developer or new to the stack, our step-by-step instructions will have you up and running in no time.
-
-[Installation Guide](https://github.com/martinnav164/RealEstateCRM/discussions/2)
-
 ## **Contributing**
 
 We believe in the power of collaboration! Join us in making RealEstateCRM even better. Whether you're a developer, designer, or Real Estate enthusiast, your contributions are invaluable. Check out our contribution guidelines and dive into our codebase.
