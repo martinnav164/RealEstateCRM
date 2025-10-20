@@ -30,7 +30,7 @@ Password: user123
 
 Getting started with RealEstateCRM is a breeze. Follow our comprehensive installation guide to set up the CRM in your local environment. Whether you're an experienced developer or new to the stack, our step-by-step instructions will have you up and running in no time.
 
-[Installation Guide](https://github.com/prolinkinfo/RealEstateCRM/discussions/2)
+[Installation Guide](https://github.com/martinnav164/RealEstateCRM/discussions/2)
 
 ## **Contributing**
 
@@ -38,21 +38,9 @@ We believe in the power of collaboration! Join us in making RealEstateCRM even b
 
 Contribution Guidelines
 
-## **Support**
-
-We're here to support your journey with RealEstateCRM. If you have questions, encounter issues, or need assistance, don't hesitate to reach out. Our responsive support team is dedicated to helping you succeed.
-
-For support inquiries, email us at: prolinkinfotechh@gmail.com
-
 ## **License**
 
 RealEstateCRM is released under the MIT License. Feel free to use, modify, and distribute the software in accordance with the license terms.
-
-## **Keeping in Touch**
-
-We value your feedback and ideas. If you have suggestions for new features or customization options, we'd love to hear from you. Let's work together to shape the future of RealEstateCRM.
-
-Contact us at: prolinkinfotechh@gmail.com
 
 ## **Social Media**
 
